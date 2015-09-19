@@ -1,0 +1,39 @@
+{
+  "name": "hipster-feed",
+  "version": "1.0.0",
+  "description": "View Instagram photos in ascii in console!",
+  "scripts": {
+    "test": "hipster-feed -help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamil1/hipster-feed.git"
+  },
+  "keywords": [
+    "instagram",
+    "ascii",
+    "photos",
+    "feed",
+    "social",
+    "kamil",
+    "khan",
+    "hipster-feed",
+    "hipster",
+    "filters",
+    "filter",
+    "hipsters",
+    "insta",
+    "gram",
+    "ig"
+  ],
+  "author": "Kamil Khan",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "filesearch": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Kamil1/hipster-feed/issues"
+  },
+  "homepage": "https://github.com/Kamil1/hipster-feed#readme"
+}
