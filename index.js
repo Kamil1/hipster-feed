@@ -2,8 +2,6 @@
 var https = require('https');
 var readline = require('readline');
 var ImageToAscii = require('image-to-ascii');
-var size = require('window-size');
-
 
 // GLOBAL VARIABLES
 
