@@ -35,5 +35,8 @@
   "bugs": {
     "url": "https://github.com/Kamil1/hipster-feed/issues"
   },
-  "homepage": "https://github.com/Kamil1/hipster-feed#readme"
+  "homepage": "https://github.com/Kamil1/hipster-feed#readme",
+  "dependencies": {
+    "window-size": "^0.1.2"
+  }
 }
